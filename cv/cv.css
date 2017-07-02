@@ -1,0 +1,23 @@
+#coordonnees{
+	display: flex;
+    flex-direction: row;
+    align-items: baseline;
+     
+}
+
+#photo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+#photo img
+{
+    width: 120px;
+    height: 120px;
+}
+
+body{
+	background: url('images/background.jpg') no-repeat left;
+}
